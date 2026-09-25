@@ -2,7 +2,12 @@
   <div class="container"> 
     <h1>MYIRCTC-Register</h1> 
     <p>Please fill in this form to create an account.</p> 
-    <hr> 
+    <hr>
+
+   
+
+    <label for="username"><b>Username</b></label>
+    <input type="username" placeholder="Enter Username" name="username" id="username" required>
 
     <label for="email"><b>Email</b></label> 
     <input type="email" placeholder="Enter Email" name="email" id="email" required> 
