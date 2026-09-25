@@ -5,7 +5,7 @@
     <hr>
 
     <label for="username"><b>Email</b></label>
-    <input type="username" placeholder="Enter Username" name="username" id="username" required>
+    <input type="email" placeholder="Enter Email" name="email" id="username" required>
 
     <label for="email"><b>Email</b></label> 
     <input type="email" placeholder="Enter Email" name="email" id="email" required> 
